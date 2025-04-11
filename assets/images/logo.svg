@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .logo-text { font: bold 24px Arial; fill: #1e40af; }
+        .tagline { font: 12px Arial; fill: #666; }
+    </style>
+    <rect width="200" height="60" fill="white"/>
+    <text x="10" y="35" class="logo-text">SANVI</text>
+    <text x="85" y="35" class="logo-text" fill="#666">REAL ESTATE</text>
+    <text x="10" y="50" class="tagline">Your Trusted Property Partner</text>
+</svg>
